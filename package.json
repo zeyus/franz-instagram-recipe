@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "zeyus <zeyus@zeyus.com>",
   "license": "MIT",
-  "repository": "https://github.com/zeyus/recipe-instagram",
+  "repository": "https://github.com/zeyus/franz-instagram-recipe",
   "config": {
     "serviceURL": "https://instagram.com/direct/inbox/",
     "hasNotificationSound": false

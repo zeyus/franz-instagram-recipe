@@ -1,0 +1,14 @@
+{
+  "id": "instagram",
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "InstagramDMs",
+  "main": "index.js",
+  "author": "zeyus <zeyus@zeyus.com>",
+  "license": "MIT",
+  "repository": "https://github.com/zeyus/recipe-instagram",
+  "config": {
+    "serviceURL": "https://instagram.com/direct/inbox/",
+    "hasNotificationSound": false
+  }
+}

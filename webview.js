@@ -1,3 +1,7 @@
+'use strict';
+
+const _path = require("path");
+
 module.exports = (Franz) => {
 
   const getMessages = function getMessages() {
@@ -26,4 +30,5 @@ module.exports = (Franz) => {
     return true;
   });
   
+  Franz.injectCSS(_path.join(__dirname, 'style.css'));
 };

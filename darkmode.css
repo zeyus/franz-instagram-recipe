@@ -73,6 +73,7 @@ a, a:visited {
     color: #262626;
     filter: invert(100%);
 }
+<<<<<<< HEAD
 .-vDIg {
     filter: invert(100%);
 }
@@ -140,3 +141,15 @@ a, a:visited {
 .i24fI {
     filter: invert(1);
 }
+=======
+
+/* login box */
+article>div>div.gr27e {
+    background-color: black;
+}
+
+/* sent chat */
+div.RQUXn > div.ZyFrc > div._4EzTm.g6RW6 {
+    background-color: #333;
+}
+>>>>>>> 73043bb3171b8eeac4939b731884287ec03fbbb5

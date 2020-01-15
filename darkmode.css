@@ -67,11 +67,78 @@ a, a:visited {
     background-color: #333 !important;
 }
 .KGiwt {
-    background-color: #333;
+    filter: invert(1);
 }
 .s4Iyt {
     color: #262626;
     filter: invert(100%);
+}
+.-vDIg {
+    filter: invert(100%);
+}
+.glyphsSpriteSettings__outline__24__grey_9 {
+    filter: invert(50%) sepia(20%) saturate(3726%) hue-rotate(187deg) brightness(100%) contrast(89%);
+}
+.glyphsSpriteUser_follow__outline__24__grey_9 {
+    filter: invert(50%) sepia(20%) saturate(3726%) hue-rotate(187deg) brightness(100%) contrast(89%);
+}
+.LH36I {
+    color: white;
+}
+.YFq-A {
+    filter: invert(100%);
+}
+.pV7Qt {
+    filter: invert(100%);
+}
+.HcJZg {
+    filter: invert(100%);
+}
+.l4b0S {
+    filter: invert(100%);
+}
+.-nal3 {
+    filter: invert(100%);
+}
+._9VEo1 {
+    filter: invert(100%);
+}
+.glyphsSpriteComment__outline__24__grey_9 {
+    filter: invert(100%);
+}
+.glyphsSpriteDirect__outline__24__grey_9 {
+    filter: invert(100%);
+}
+.glyphsSpriteSave__outline__24__grey_9 {
+    filter: invert(100%);
+}
+.dCJp8.afkep {
+    color: black;
+}
+.XdXBI {
+    filter: brightness(0) invert(1);
+}
+._8-yf5 {
+    fill: #3897f0;
+    filter: brightness(1);
+}
+._7XkEo {
+    filter: invert(1);
+}
+.PVkFi {
+    filter: invert(1);
+}
+.piCib {
+    filter: invert(1);
+}
+.coreSpriteLoggedOutWordmark {
+    filter: invert(50%) sepia(20%) saturate(3726%) hue-rotate(187deg) brightness(100%) contrast(89%);
+}
+.gr27e {
+    background-color: black !important;
+}
+.i24fI {
+    filter: invert(1);
 }
 
 /* login box */

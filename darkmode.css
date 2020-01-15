@@ -73,3 +73,13 @@ a, a:visited {
     color: #262626;
     filter: invert(100%);
 }
+
+/* login box */
+article>div>div.gr27e {
+    background-color: black;
+}
+
+/* sent chat */
+div.RQUXn > div.ZyFrc > div._4EzTm.g6RW6 {
+    background-color: #333;
+}

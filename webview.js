@@ -15,7 +15,7 @@ module.exports = (Franz) => {
   // Attach listener for "enter" key to send instead of newline.
   document.addEventListener('keydown', function(event) {
     try {
-        if (event.keyCode == 13) {
+        if (event.keyCode == 13 && !event.shiftKey) {
           var buttons = document.getElementsByTagName('button');
           for(var i=0;i<buttons.length;i++){
             if(buttons[i].innerHTML == 'Send'){
